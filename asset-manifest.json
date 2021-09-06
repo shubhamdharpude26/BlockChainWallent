@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BlockChainWallent/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/BlockChainWallent/static/js/main.af04dea2.chunk.js",
+    "main.js.map": "/BlockChainWallent/static/js/main.af04dea2.chunk.js.map",
+    "runtime-main.js": "/BlockChainWallent/static/js/runtime-main.d63a6983.js",
+    "runtime-main.js.map": "/BlockChainWallent/static/js/runtime-main.d63a6983.js.map",
+    "static/js/2.b7f3bbc9.chunk.js": "/BlockChainWallent/static/js/2.b7f3bbc9.chunk.js",
+    "static/js/2.b7f3bbc9.chunk.js.map": "/BlockChainWallent/static/js/2.b7f3bbc9.chunk.js.map",
+    "index.html": "/BlockChainWallent/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/BlockChainWallent/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b7f3bbc9.chunk.js.LICENSE.txt": "/BlockChainWallent/static/js/2.b7f3bbc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d63a6983.js",
+    "static/js/2.b7f3bbc9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.af04dea2.chunk.js"
+  ]
+}
